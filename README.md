@@ -50,6 +50,7 @@ Es el entorno de desarrollo integrado oficial para la plataforma Android, está 
 La herramienta balsamiq nos permitirá crear el prototipo y modelado del proyecto, debido a que esta herramienta es una de las mejores 
 para crear prototipos, bocetos o wireframes es Balsamiq Mockups
 
+
 [![figma.jpg](https://i.postimg.cc/x17p5Qpb/figma.webp)](https://postimg.cc/NK6xG3cg)
 
 Figma es una herramienta para diseñar prototipos, wireframes, interfaces… Todo aquello que posea una interfaz gráfica se puede diseñar desde Figma ya sean páginas web, pantallas de móvil e incluso para smartwatches, su mayor ventaja es que es una plataforma  colaborativa.
@@ -63,7 +64,7 @@ El incorrecto manejo del inventario perjudica las prácticas de los laboratorios
 
 # Interfaz gráfica
 
-El proyecto va a constar de diferentes secciones. En primer lugar va a constar de dos diferentes ingresos al inventario; El usuario puede ingresar al sistema como invitado para únicamente revisar el inventario y buscar los productos o puede iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
+A continuación se muestran los mockups de la aplicación explicados uno a uno y según el hilo que debe llevar el usurio.
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
