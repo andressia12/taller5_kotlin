@@ -62,9 +62,9 @@ MySQL es un sistema open source de administración de bases de datos que es desa
 # Necesidad
 El incorrecto manejo del inventario perjudica las prácticas de los laboratorios debido a que afecta los procesos de formación y procesos de investigación al encontrar incoherencias en los inventarios . Esto genera que se compren mayores cantidades de reactivos innecesarios, o que se venzan los reactivos por lo que ya no se pueden usar en procesos de investigación. Por otro lado, se debe tener control de las salidas y las entradas de los productos para saber cuando se debe adquirir más de un producto o cuando hay suficiente cantidad para las prácticas. 
 
-# Interfaz gráfica
+# Mockups de la aplicación
 
-El proyecto va a constar de diferentes secciones. En primer lugar va a constar de dos diferentes ingresos al inventario; El usuario puede ingresar al sistema como invitado para únicamente revisar el inventario y buscar los productos o puede iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
+A continuación se muestran cada una de las pantallas según el hilo que debe seguir el usuario para el correcto manejo de ésta. La aplicación consta de un inicio de sesión o en su defecto un registro para poder acceder a la bandeja principal de la aplicación. 
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
