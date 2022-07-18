@@ -162,6 +162,8 @@ En esta opción se redirige a una nueva ventana, donde se encuentran cinco conse
 
 Inicialmente a partir de los mockups se realizaron las primeras ventanas de registro y login por medio de la autenticación de Firebase, adicionalmente se usaron los servicios del Firestore Database para guardar los datos relacionados a cada cultivo, por medio de cada uno de los formularios. Además se hizo uso de la API de google maps y de otra API que tiene la información del clima dependiendo la región en donde se encuentre.
 
+A continuación se muestra la aplicación en funcionamiento a modo de hilo recorriendo cada una de las ventanas y/o vistas que se habían propuesto.
+
 [![1.jpg](https://i.postimg.cc/fTXgggFr/1.jpg)](https://postimg.cc/tYq5sD93)
 
 [![2.jpg](https://i.postimg.cc/FsjDxkkt/2.jpg)](https://postimg.cc/1f3GmtKM)
