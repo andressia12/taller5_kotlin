@@ -81,7 +81,32 @@ Si el usuario ya está registrado puede ingresar con su usuario y contraseña co
 
 REGISTRARSE
 
-La aplicación solicitará correo de ingreso y contraseña proporcionadas por el usuario, además de la confirmación de la misma. Una vez confirmada la contraseña podrá finalizar su proceso de registro; posteriormente será redirigido a la ventana login para iniciar sesión con las credenciales creadas.
+La aplicación solicitará correo de ingreso y contraseña proporcionadas por el usuario, además de la confirmación de la misma. Una vez confirmada la contraseña podrá finalizar su proceso de registro; posteriormente será redirigido a la ventana login para iniciar sesión con las credenciales creadas anteriormente.
+
+VENTANA DE CARGA
+
+Una vez el usuario esté logueado se visualizará la ventana de carga por aproximadamente tres segundos mientras cargan los datos de la aplicación, lo cual le indicará al usuario que el ingreso fué correcto.
+
+HOME
+
+En esta ventana podrá interactuar con el menú principal con cinco opciones diferentes.
+
+1) Agregar cultivo 
+
+Ésta opción lo redirigirá a una nueva ventana con un formulario para agregar algún cultivo donde se solicitará algunos datos de este.
+
+2) Ver cultivo
+
+esta opción lo redirige a una nueva ventana donde el usuario podrá visualizar cada uno de sus cultivos y acceder a ellos independientemente, igualmente se visualiza una gráfica tipo anillo con los porcentajes de área de los cultivos. 
+
+SELECCIONAR CULTIVO
+
+Una vez seleccionado el cultivo se accee a otra ventana donde están las opciones: Informe general, horas trabajadas, hectáreas trabajadas y agua regada.
+
+  OPCIÓN INFORME GENERAL 
+
+  Una vez se selccione esta ocpción se podrán tener las opciones: balance de horas trabajadas y clima de la región. 
+  
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
