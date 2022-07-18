@@ -103,19 +103,19 @@ SELECCIONAR CULTIVO
 
 Una vez seleccionado el cultivo se accee a otra ventana donde están las opciones: Informe general, horas trabajadas, hectáreas trabajadas y agua regada.
 
--OPCIÓN INFORME GENERAL 
+- OPCIÓN INFORME GENERAL 
 
 Una vez se seleccione esta ocpción se podra ver el balance de horas trabajadas por medio de una g´raficade barras y el clima de la región por medio de un mapa y algunos datos del clima
 
--HORAS TRABAJADAS
+- HORAS TRABAJADAS
 
 Al seleccionar esta popción se mostrará un formulario donde se visualiza el tiempo trabajado y la fecha.
 
--AGUA REGADA
+- AGUA REGADA
 
 En esta opción se visualizará un formulario con los campos: cantidad de metros cúbicos y fecha.
 
--HECTÁREAS TRABAJADAS 
+- HECTÁREAS TRABAJADAS 
 
 Se visualizará un formulario con los campo: cantidad de hectáreas y fecha. 
 
