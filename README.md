@@ -26,25 +26,25 @@
 
 
 # Introducción
-Los laboratorios tienen una labor muy importante en el gestionamiento de todos los materiales, reactivos y equipos. Por un lado, los equipos de laboratorio son extremadamente delicados y requieren de cuidados específicos. En cuanto a los materiales de los laboratorios el problema radica en su gran cantidad y en la fragilidad de algunos materiales. Por último, se encuentran los reactivos, punto que es fundamental y por lo cual se debe tener una gestión eficiente y adecuada, debido a que se deben controlar y supervisar todos los reactivos que sean peligrosos y que puedan apelar contra la salud y la integridad de cualquier persona que haga uso del laboratorio. 
-Cada laboratorio debe tener un sistema de base de datos donde se realiza la gestión del inventario, siendo una de las partes fundamentales y más complejas, debido a que cada vez que se usa un reactivo, se realiza mantenimiento a un equipo, se producen salidas o entradas de las sustancias o equipos, se debe actualizar el inventario con el fin de llevar un control total del laboratorio, volviéndose un proceso repetitivo y complejo.   
 
-Es por esto que se decidió desarrollar un programa  para el control de inventarios que permita gestionar entradas y salidas de los diferentes equipos y reactivos para poder gestionar los inventarios de una forma más eficiente. 
+La agricultura tiene una gran importancia en la economía de muchos países en desarrollo debido a su significativa contribución a la producción interna y el empleo, así como por su aporte a la seguridad alimentaria, esencial sobre todo para los países menos industrializados. Sin embargo, en todo el mundo en desarrollo la agricultura sigue afrontando dificultades. En los años 90 la producción agrícola per cápita tanto para el mercado interno como para el de exportación disminuyó, y a fines de la década de 1990 sólo aportaban el 1 por ciento de las exportaciones agrícolas mundiales. En efecto, a pesar de todas las oportunidades económicas atribuidas a la globalización y el comercio internacional, por lo general los pequeños campesinos del mundo en desarrollo no sólo no pueden participar en los mercados internacionales sino que tienen que competir con los productos de importación en sus propios mercados internos.
+
+Antes de la pandemia, la agricultura como sector productivo no generaba el interés que concita en la actualidad como proveedor estratégico de alimentos, pilar de la seguridad alimentaria y bastión en la lucha contra la inflación. Estudios recientes comprueban que la contribución del valor agregado de la agricultura a la economía es muy superior en América Latina, incluida Colombia. Un estudio de la FAO (Organización de las Naciones Unidas para la Agricultura y la Alimentación) sobre Transformación Rural de Carolina Trivelli y Julio Berdegué, menciona que el aporte agropecuario ampliado a la economía podría ser del 30% en el país, al igual que, en promedio, en 9 países evaluados de la región. Los autores sostienen que el peso total de la agricultura ampliada representan un multiplicador de la economía agrícola, que podría elevar, en promedio, hasta por cuatro el impacto del valor real de la agricultura
+
+Dicho esto, se decidió  que ayudar al agriculto colombiano a hacer parte de un mundo cada vez más globalizado e industrializado por medio de la implementación de una aplicación móvil que le permita tener un mayor control sobre sus cultivos garantizando una mejor calidad y eficiencia en cada uno de estos.
 
 # Herramientas usadas para la solución
 <h2>Kotlin</h2>
-La primer  herramienta utilizada, será el lenguaje de programación Python. Este lenguaje se eligió debido a que es uno de los lenguajes de programación más actuales y de los más sencillos de usar, debido a que este posse una sintaxis simple y de fácil aprenidzaje. Además de esto es un lenguaje muy productivo y es de código abierte, por lo que ofrece muchas ventajas para este proyecto. 
 
-![Kotlin.jpg](https://i.postimg.cc/wTsZy7js/Kotlin.jpg)](https://postimg.cc/BX4MRZDq)
+Kotlin es un lenguaje de programación estático de código abierto que admite la programación funcional y orientada a objetos lo que lo hace muy práctico de usar, además, en cuanto al tema de desarrollo de aplicaciones móviles android  es uno de los  más usados y con mayor soporte gracias a Google.
 
+![Kotlin.jpg](https://i.postimg.cc/wTsZy7js/Kotlin.jpg)
 
 <h2> Android studio </h2> 
 
-Se va a utilizar el editor de texto Visual Studio Code, esto debido a que es un editor de texto fácil de usar, el cual es multiplataforma, desarrollado por Microsoft por lo que es gratuito y de código abierto siendo esta una herramienta de programación avanzada.
+Es el entorno de desarrollo integrado oficial para la plataforma Android, está basado en el software IntelliJ IDEA de JetBrain y soporta varios lenguajes de programacíón incluyendo Kotlin, esta basado en Gradle que es un emulador rápido y cargado de funciones.
 
 [![Andorid-studio.jpg](https://i.postimg.cc/rsdh6YPP/Andorid-studio.png)](https://postimg.cc/q6TcyQ0s)
-
-
 
 <h2> Figma </h2> 
 La herramienta balsamiq nos permitirá crear el prototipo y modelado del proyecto, debido a que esta herramienta es una de las mejores 
@@ -52,19 +52,18 @@ para crear prototipos, bocetos o wireframes es Balsamiq Mockups
 
 [![figma.jpg](https://i.postimg.cc/x17p5Qpb/figma.webp)](https://postimg.cc/NK6xG3cg)
 
+Figma es una herramienta para diseñar prototipos, wireframes, interfaces… Todo aquello que posea una interfaz gráfica se puede diseñar desde Figma ya sean páginas web, pantallas de móvil e incluso para smartwatches, su mayor ventaja es que es una plataforma  colaborativa.
 
 <h2> Firebase  </h2> 
-MySQL es un sistema open source de administración de bases de datos que es desarrollado y soportado por Oracle, por lo cual además se utilizó el programa MySQL Workbench debido a que es una herramienta visual de diseño de bases de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, creación y mantenimiento para el sistema de base de datos MySQL.
 
-[![firebase.png](https://i.postimg.cc/ZRZRMCw9/firebase.png)](https://postimg.cc/WDWTDbLj)
-
+Firebase básicamente es una plataforma móvil diseñada y creada por Google, teniendo como principal función desarrollar y facilitar la creación de aplicaciones para dispositivos móviles que cuenten con una alta calidad a pesar de su rápida elaboración.
 
 # Necesidad
 El incorrecto manejo del inventario perjudica las prácticas de los laboratorios debido a que afecta los procesos de formación y procesos de investigación al encontrar incoherencias en los inventarios . Esto genera que se compren mayores cantidades de reactivos innecesarios, o que se venzan los reactivos por lo que ya no se pueden usar en procesos de investigación. Por otro lado, se debe tener control de las salidas y las entradas de los productos para saber cuando se debe adquirir más de un producto o cuando hay suficiente cantidad para las prácticas. 
 
-# Mockups de la aplicación
+# Interfaz gráfica
 
-A continuación se muestran cada una de las pantallas según el hilo que debe seguir el usuario para el correcto manejo de ésta. La aplicación consta de un inicio de sesión o en su defecto un registro para poder acceder a la bandeja principal de la aplicación. 
+El proyecto va a constar de diferentes secciones. En primer lugar va a constar de dos diferentes ingresos al inventario; El usuario puede ingresar al sistema como invitado para únicamente revisar el inventario y buscar los productos o puede iniciar sesión para poder modificar, eliminar e insertar los materiales en el inventario del laboratorio. 
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
