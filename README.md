@@ -103,6 +103,8 @@ En esta ventana podrá interactuar con el menú principal con cinco opciones dif
 
 Ésta opción lo redirigirá a una nueva ventana con un formulario para agregar algún cultivo donde se solicitará algunos datos de este.
 
+[![vista-13.jpg](https://i.postimg.cc/xCZRp0gz/vista-13.jpg)](https://postimg.cc/CBjkzp3h)
+
 2) VER CULTIVO
 
 esta opción lo redirige a una nueva ventana donde el usuario podrá visualizar cada uno de sus cultivos y acceder a ellos independientemente, igualmente se visualiza una gráfica tipo anillo con los porcentajes de área de los cultivos. 
