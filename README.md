@@ -20,13 +20,9 @@
 
 [4. Diseño de interfaz](#diseño-de-interfaz)
 
-[5. Firebase](#firebase)
+[5.Desarrollo Proyecto](#Desarrollo-Proyecto)
 
-[6. Arquitectura de software](#arquitectura-de-software)
-
-[7. Metología usada](#metodologia-usada)
-
-[8.Desarrollo Proyecto](#Desarrollo-Proyecto)
+[6.Conclusiones](#Conclusiones)
 
 
 
