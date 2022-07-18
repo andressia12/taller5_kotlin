@@ -155,6 +155,8 @@ En esta opción se despliega un calendario para agregar actividades dependiendo 
 
 En esta opción se accede a una nueva ventana donde se visualiza el correo del usuario y donde se permite cerrar sesión.
 
+[![vista-93.jpg](https://i.postimg.cc/pXjHZrkK/vista-93.jpg)](https://postimg.cc/56fT9xht)
+
 5) OPCIÓN TIPS SOBRE TUS CULTIVOS 
 
 En esta opción se redirige a una nueva ventana, donde se encuentran cinco consejos para un buen cultivo.
