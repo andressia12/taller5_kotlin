@@ -1,10 +1,15 @@
 <h1 align="center">Proyecto Final diplomado desarrollo movil</h1>
 <h3 align="center"> Aplicación movil para el control de cultivos</h3>
  Presentado por por: 
+ 
     Diego Sachica
+    
     Johnny Argote
+    
     Marco Vanegas
+    
     Andrés Siachoque
+    
     
 # Tabla de Contenidos
 [1. Introducción](#introducción)
@@ -60,6 +65,8 @@ Figma es una herramienta para diseñar prototipos, wireframes, interfaces… Tod
 Firebase básicamente es una plataforma móvil diseñada y creada por Google, teniendo como principal función desarrollar y facilitar la creación de aplicaciones para dispositivos móviles que cuenten con una alta calidad a pesar de su rápida elaboración.
 
 # Necesidad
+Basados en el objetivo de desarrollo sostenible 9 titulado "Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación" se obtiene que en los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios, por lo que fundamentados en esto se ve el una oportunidad de mejora  
+
 El incorrecto manejo del inventario perjudica las prácticas de los laboratorios debido a que afecta los procesos de formación y procesos de investigación al encontrar incoherencias en los inventarios . Esto genera que se compren mayores cantidades de reactivos innecesarios, o que se venzan los reactivos por lo que ya no se pueden usar en procesos de investigación. Por otro lado, se debe tener control de las salidas y las entradas de los productos para saber cuando se debe adquirir más de un producto o cuando hay suficiente cantidad para las prácticas. 
 
 # Interfaz gráfica
