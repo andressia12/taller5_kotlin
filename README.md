@@ -91,9 +91,13 @@ VENTANA DE CARGA
 
 Una vez el usuario esté logueado se visualizará la ventana de carga por aproximadamente tres segundos mientras cargan los datos de la aplicación, lo cual le indicará al usuario que el ingreso fué correcto.
 
+[![Vista-3.jpg](https://i.postimg.cc/cLrtLQcf/Vista-3.png)](https://postimg.cc/RWxZPJy0)
+
 HOME
 
 En esta ventana podrá interactuar con el menú principal con cinco opciones diferentes.
+
+[![Vista-4.jpg](https://i.postimg.cc/BZzRL3Tk/Vista-4.png)](https://postimg.cc/bdQmWKF9)
 
 1) AGREGAR CULTIVO
 
@@ -103,9 +107,13 @@ En esta ventana podrá interactuar con el menú principal con cinco opciones dif
 
 esta opción lo redirige a una nueva ventana donde el usuario podrá visualizar cada uno de sus cultivos y acceder a ellos independientemente, igualmente se visualiza una gráfica tipo anillo con los porcentajes de área de los cultivos. 
 
+[![Vista-5.png](https://i.postimg.cc/N0PZ6whK/Vista-5.png)](https://postimg.cc/d7rWFpVF)
+
 SELECCIONAR CULTIVO
 
 Una vez seleccionado el cultivo se accee a otra ventana donde están las opciones: Informe general, horas trabajadas, hectáreas trabajadas y agua regada.
+
+[![Vista-6.jpg](https://i.postimg.cc/y6hvBzf0/Vista-6.png)](https://postimg.cc/rzmSC72p)
 
 - OPCIÓN INFORME GENERAL 
 
