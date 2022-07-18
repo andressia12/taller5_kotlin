@@ -91,11 +91,11 @@ HOME
 
 En esta ventana podrá interactuar con el menú principal con cinco opciones diferentes.
 
-1) Agregar cultivo 
+1) AGREGAR CULTIVO
 
 Ésta opción lo redirigirá a una nueva ventana con un formulario para agregar algún cultivo donde se solicitará algunos datos de este.
 
-2) Ver cultivo
+2) VER CULTIVO
 
 esta opción lo redirige a una nueva ventana donde el usuario podrá visualizar cada uno de sus cultivos y acceder a ellos independientemente, igualmente se visualiza una gráfica tipo anillo con los porcentajes de área de los cultivos. 
 
@@ -103,10 +103,39 @@ SELECCIONAR CULTIVO
 
 Una vez seleccionado el cultivo se accee a otra ventana donde están las opciones: Informe general, horas trabajadas, hectáreas trabajadas y agua regada.
 
-  OPCIÓN INFORME GENERAL 
+-OPCIÓN INFORME GENERAL 
 
-  Una vez se selccione esta ocpción se podrán tener las opciones: balance de horas trabajadas y clima de la región. 
-  
+Una vez se seleccione esta ocpción se podra ver el balance de horas trabajadas por medio de una g´raficade barras y el clima de la región por medio de un mapa y algunos datos del clima
+
+-HORAS TRABAJADAS
+
+Al seleccionar esta popción se mostrará un formulario donde se visualiza el tiempo trabajado y la fecha.
+
+-AGUA REGADA
+
+En esta opción se visualizará un formulario con los campos: cantidad de metros cúbicos y fecha.
+
+-HECTÁREAS TRABAJADAS 
+
+Se visualizará un formulario con los campo: cantidad de hectáreas y fecha. 
+
+3) ACTIVIDADES
+
+En esta opción se despliega un calendario para agregar actividades dependiendo de la fecha, al seleccionar el día se abrirá una nueva ventana para crear la actividad para registrar. 
+
+4) OPCIÓN PERFIL
+
+En esta opción se accede a una nueva ventana donde se visualiza el correo del usuario y donde se permite cerrar sesión.
+
+5) OPCIÓN TIPS SOBRE TUS CULTIVOS 
+
+En esta opción se redirige a una nueva ventana, donde se encuentran cinco consejos para un buen cultivo.
+
+
+
+
+
+
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
