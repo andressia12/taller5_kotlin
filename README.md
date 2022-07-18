@@ -117,23 +117,37 @@ Una vez seleccionado el cultivo se accee a otra ventana donde están las opcione
 
 - OPCIÓN INFORME GENERAL 
 
-Una vez se seleccione esta ocpción se podra ver el balance de horas trabajadas por medio de una g´raficade barras y el clima de la región por medio de un mapa y algunos datos del clima
+Una vez se seleccione esta ocpción se podra ver el balance de horas trabajadas por medio de una graficade barras y el clima de la región por medio de un mapa y algunos datos del clima
+
+[![Vista-7.jpg](https://i.postimg.cc/xTMkB0tS/Vista-7.png)](https://postimg.cc/bsYNtf76)
+
+[![Vista-8.jpg](https://i.postimg.cc/qvW5qx2K/Vista-8.png)](https://postimg.cc/hXbr3xy4)
 
 - HORAS TRABAJADAS
 
 Al seleccionar esta popción se mostrará un formulario donde se visualiza el tiempo trabajado y la fecha.
 
+[![Vista-9.jpg](https://i.postimg.cc/VNyKmLcB/Vista-9.png)](https://postimg.cc/9DpdB20r)
+
 - AGUA REGADA
 
 En esta opción se visualizará un formulario con los campos: cantidad de metros cúbicos y fecha.
+
+[![Vista-10.jpg](https://i.postimg.cc/G2KKFFTq/Vista-10.png)](https://postimg.cc/xJkLYbRz)
 
 - HECTÁREAS TRABAJADAS 
 
 Se visualizará un formulario con los campo: cantidad de hectáreas y fecha. 
 
+[![Vista-11.jpg](https://i.postimg.cc/g0PH1Svg/Vista-11.png)](https://postimg.cc/ZWVNdLsN)
+
 3) ACTIVIDADES
 
 En esta opción se despliega un calendario para agregar actividades dependiendo de la fecha, al seleccionar el día se abrirá una nueva ventana para crear la actividad para registrar. 
+
+[![Vista-13.jpg](https://i.postimg.cc/x8WzM856/Vista-13.png)](https://postimg.cc/MfmH8WhB)
+
+[![Vista-14.jpg](https://i.postimg.cc/BvMPNMNL/Vista-14.png)](https://postimg.cc/sBG2gPks)
 
 4) OPCIÓN PERFIL
 
@@ -143,7 +157,7 @@ En esta opción se accede a una nueva ventana donde se visualiza el correo del u
 
 En esta opción se redirige a una nueva ventana, donde se encuentran cinco consejos para un buen cultivo.
 
-
+[![Vista-12.jpg](https://i.postimg.cc/Qx9gCGm6/Vista-12.png)](https://postimg.cc/gnpLt7fR)
 
 
 
