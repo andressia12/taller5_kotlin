@@ -1,8 +1,10 @@
-<h1 align="center">Proyecto Final Base de datos</h1>
-<h2 align="center"> LABIN</h2>
-<h3 align="center"> Programa para el inventario de Laboratorios Químicos</h3>
+<h1 align="center">Proyecto Final diplomado desarrollo movil</h1>
+<h3 align="center"> Aplicación movil para el control de cultivos</h3>
  Presentado por por: 
-    Gina Stephanie Gonzalez M
+    Diego Sachica
+    Johnny Argote
+    Marco Vanegas
+    Andrés Siachoque
     
 # Tabla de Contenidos
 [1. Introducción](#introducción)
@@ -13,7 +15,7 @@
 
 [4. Diseño de interfaz](#diseño-de-interfaz)
 
-[5. MER](#mer)
+[5. Firebase](#firebase)
 
 [6. Arquitectura de software](#arquitectura-de-software)
 
