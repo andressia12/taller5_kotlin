@@ -67,9 +67,8 @@ Firebase básicamente es una plataforma móvil diseñada y creada por Google, te
 [![firebase.png](https://i.postimg.cc/ZRZRMCw9/firebase.png)](https://postimg.cc/WDWTDbLj)
 
 # Necesidad
-Basados en el objetivo de desarrollo sostenible 9 titulado "Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación" se obtiene que en los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios, por lo que fundamentados en esto se ve el una oportunidad de mejora  
+Basados en el objetivo de desarrollo sostenible 9 titulado "Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación" se obtiene que en los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios, por lo que fundamentados en esto se ve una gran oportunidad de mejora en los cultivos de Colombia para que sean más eficientes y de mayor calidad que aporten tanto al agricultor colombiano como a la economía, desarrollo, infraestructura y crecicmiento del pais.
 
-El incorrecto manejo del inventario perjudica las prácticas de los laboratorios debido a que afecta los procesos de formación y procesos de investigación al encontrar incoherencias en los inventarios . Esto genera que se compren mayores cantidades de reactivos innecesarios, o que se venzan los reactivos por lo que ya no se pueden usar en procesos de investigación. Por otro lado, se debe tener control de las salidas y las entradas de los productos para saber cuando se debe adquirir más de un producto o cuando hay suficiente cantidad para las prácticas. 
 
 # Interfaz gráfica
 
@@ -155,8 +154,6 @@ En esta opción se despliega un calendario para agregar actividades dependiendo 
 
 En esta opción se accede a una nueva ventana donde se visualiza el correo del usuario y donde se permite cerrar sesión.
 
-[![vista-93.jpg](https://i.postimg.cc/pXjHZrkK/vista-93.jpg)](https://postimg.cc/56fT9xht)
-
 5) OPCIÓN TIPS SOBRE TUS CULTIVOS 
 
 En esta opción se redirige a una nueva ventana, donde se encuentran cinco consejos para un buen cultivo.
@@ -165,109 +162,15 @@ En esta opción se redirige a una nueva ventana, donde se encuentran cinco conse
 
 
 
-
-
-![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
-
-En caso de que el usuario ingrese como invitado logrará navegar por el inventario y podrá buscar los productos para ver la información de cada uno, sin embargo, no tendrá permiso de insertar, eliminar o modificar ningún producto del laboratorio
-
-![invitado.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/invitado.png)
-
-Por otro lado, si el usuario inicia sesión va a tener el permiso de insertar, modificar y eliminar productos del inventario. Las sigueintes imagenes mostrarán los datos de cada uno de los productos del inventario como lo son Equipos, Reactivos y Materiales. 
-
-![crud.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crud.png)
-![crudreac](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudreac.png)
-![crudmat](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/crudmat.png)
-
-Además, en una diferente sección se va a poder observar cual es la próxima fecha de revisión y mantenimiento en cuanto a los equipos, y cual es la fecha de vencimiento en cuanto a los reactivos como se muestra a continuación 
-
-![revreactivos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreac.png)
-![revequipos](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/revreactivos.png)
-
-# MER
-
-El modelo entidad-relación del proyecto se muestra a continuación:
-![Mer.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/MER.png)
-
-# Arquitectura de Software
-
-La arquitectura que se decidió implementar en el proyecto es la arquitectura cliente-servidor, esto debido a que los usuarios van a estar conectados al servidor de base de datos en donde se almacenará toda la información de los productos del laboratorio, por esto los recursos siempre estarán a disposición de los usuarios que van a hacer uso de esta información . Todas las gestiones que se realizarán van a estar concentradas en el servidor, además, el servidor tambien dispondrá de los requerimientos provenientes de los usuarios que tienen prioridad ,o, de la información que es de uso público. 
-
-El proyecto se compondrá de una red LAN la cual tendrá 3 computadores para los usuarios una impresora y un servidor de base de datos donde se almacenará la información, los cuales estarán interconectados por medio de un switch. A continuación se muestra la arquitectura de software del proyecto realizada en Cisco Packet Tracer. 
-
-![LAN.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/LAN.png)
-
-# Metodología Ágil
-
-El proyecto se realizará en base a una metodología ágil debido a que gracias a estas metodologías se logra adaptar a la forma de trabajo y a las condiciones del proyecto,utilizando enfoques flexibles para ofrecer mejoras y aumentar la satisfacción del cliente. Es por esto, que se decidió utilizar la metodología SCRUM.
-La metodología SCRUM se utilizó debido a sus ventajas, las cuales son: innovación, flexibilidad, competitividad y productividad.
-La metodología SCRUM se compone de diferentes etapas. 
-- La primer etapa es de suma importancia debido a que se crea la visión del proyecto y el plan de lanzamiento.
-- La segunda etapa es la de planificación y estimación donde se elaboran y se definen las primeras tareas y se aceptan sugerencias y optimizaciones del proceso
-- La tercer etapa es la implementación donde se crean los primeros entregables diseñando la aplicación junto con las optimizaciones del cliente
-- La cuarta etapa es la revisión e retroespectiva donde se construye y se implementa el programa realizando demostraciones y validaciones del mismo
-- La quinta y última etapa es el lanzamiento donde se envían los entregables y se hace la respectiva evaluación y monitoreo del proyecto
-
-![SCRUM.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/SCRUM.png)
-
 # Desarrollo Proyecto
 
-### A continuación se expondrá el desarrollo y la demostración del proyecto:
+Inicialmente a partir de los mockups se realizaron las primeras ventanas de registro y login por medio de la autenticación de Firebase, adicionalmente se usaron los servicios del Firestore Database para guardar los datos relacionados a cada cultivo, por medio de cada uno de los formularios. Además se hizo uso de la API de google maps y de otra API que tiene la información del clima dependiendo la región en donde se encuentre.
 
 
-Inicialmente se creo la base de datos que se usó para el proyecto la cual se nombró comó Lab_inventario donde por medio de esta se crearon las diferentes tablas para el desarrollo del proyecto, con un total de 4 tablas; Una tabla que contendrá los datos de los usuarios autorizados a modificar la base de datos. La segunda tabla contendrá los datos de los equipos registrados, la tercera tabla los datos de los reactivos registrados y finalmente, la cuarta tabla contendrá los materiales registrados. 
-![sqltablas.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/sqltablas.png)
-
-Una vez que se ejecuta el código este va a mostrar una ventana donde le usuario va a tener dos opciones; Si el usuario es un usuario autorizado, este podrá ingresar con sus credenciales y va a poder modificar, eliminar, e insertar datos haciendo click en iniciar sesión. Sin embargo, en dado caso que el usuario no este autorizado solo podrá ingresar a mirar el inventario y buscar los datos necesarios sin poder realizar ninguna modificación.
-
-![login.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/login.png)
-
-Si el usuario ingresa como invitado va poder realizar las busquedas necesarias y mirar el inventario, sin embargo si ya desea realizar un cambio el usuario debe iniciar sesión. A continuación se expone como un usuario no autorizado puede interactuar con el programa
-
-### Inicio Invitado
-![buscarinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarinv.png)
-
-### Pestaña Equipos vista invitado
-![buscareqinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscareqinv.png)
-### Pestaña Reactivos vista invitado
-![buscarrecinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarrecinv.png)
-### Pestaña Materiales vista invitado
-![buscarmatinv.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/buscarmatinv.png)
-
-En dado caso que ya se dese iniciar sesión, en cada una de las pestañas mencionadas anteriormente hay un botón de inicio de sesión, y una vez presionado, redirige al usuario a hacer login, en caso que el usuario acceda con credenciales en las bases de datos el programa le mostrará una alerta de ingreso satisfactorio, y en caso de que el usuario ingrese credenciales que no se encuentren en la base de datos se negará el acceso. 
-
-### Acceso Satisfactorio
-![loginY.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/loginY.png)
-### Acceso Denegado
-![loginN.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/loginN.png)
-
-Una vez que el usuario ingrese este logrará ver las diferentes opciones para modificar el inventario de laboratorio, cada una de las pestañas dejará al usuario autorizado insertar, eliminar o modificar un dato de una manera eficiente como se demuestra a continuación
-
-### Inicio Admin
-![admin.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/admin.png)
-
-### Pestaña Equipos vista Admin
-![admineq.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/admineq.png)
-### Pestaña Reactivos vista Admin
-![adminreac.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/adminreac.png)
-### Pestaña Materiales vista invitado
-![adminmat.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/adminmat.png)
 
 
-Además si el usuario desea buscar un archivo una vez que ingrese a la pestaña de buscar esta lo redirigirá a la ventana de busqueda la cual es la misma que la de busqueda de invitado, sin embargo, si se ingresa a esta ventana una vez ya se ha iniciado sesión el programa ya no le dirá al usuario que inicie sesión sino le mostrará un botón de volver para que el usuario pueda volver a la ventana de modificación inmediatamente
-
-### Búsqueda Admin
-![adminbusc.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/adminbusc.png)
-
-Finalmente tanto para vista invitado como para la vista de Admin la última pestaña que se verá en el programa es la venta autor, donde se verán los respectivos créditos y detalles de quien realizó el proyecto
-
-### Autor
-![adminautor.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagit/adminautor.png)
 
 
 ### Conclusiones 
 
-Debido a la necesidad de un sistema de control eficiente para la gestión de la información en los laboratorios químicos, se realizó un programa el cual disminuya la deficiencia a la hora de buscar, insertar, modificar datos de los diferentes laboratorios. Gracias al programa desarrollado se concretaron las siguientes conclusiones:<br>
-•	Se evidencio la necesidad de un nuevo sistema de control de inventarios, debido a las deficiencias que se presentaban al momento de la ejecución de los mismos. <br>
-•	El desarrollo de un nuevo sistema de control de inventarios, mejora la eficiencia y velocidad al momento de realizar el inventario, además de brindar la información verídica en cuanto a la existencia y cantidad de los componentes del laboratorio. <br>
-•	El programa para le gestión del sistema de inventario, disminuirá el tiempo en su ejecución, ofrecerá información total y verídica, y además administrará correctamente los componentes del laboratorio
+
