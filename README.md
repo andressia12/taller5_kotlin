@@ -20,9 +20,9 @@
 
 [4. Diseño de interfaz](#diseño-de-interfaz)
 
-[5.Desarrollo Proyecto](#Desarrollo-Proyecto)
+[5. Desarrollo Proyecto](#Desarrollo-Proyecto)
 
-[6.Conclusiones](#Conclusiones)
+[6. Conclusiones](#Conclusiones)
 
 
 
