@@ -79,9 +79,13 @@ LOGIN
 
 Si el usuario ya está registrado puede ingresar con su usuario y contraseña como credenciales propuestas por este mismo, de lo contrario deberá acceder a la opción registrate ahora.
 
+[![Vista-1.jpg](https://i.postimg.cc/SKnRmkkd/Vista-1.png)](https://postimg.cc/Y4wM3c4L)
+
 REGISTRARSE
 
 La aplicación solicitará correo de ingreso y contraseña proporcionadas por el usuario, además de la confirmación de la misma. Una vez confirmada la contraseña podrá finalizar su proceso de registro; posteriormente será redirigido a la ventana login para iniciar sesión con las credenciales creadas anteriormente.
+
+[Vista-2.jpg](https://postimg.cc/1f6dK8DM)
 
 VENTANA DE CARGA
 
