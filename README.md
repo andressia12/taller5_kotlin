@@ -85,7 +85,7 @@ REGISTRARSE
 
 La aplicación solicitará correo de ingreso y contraseña proporcionadas por el usuario, además de la confirmación de la misma. Una vez confirmada la contraseña podrá finalizar su proceso de registro; posteriormente será redirigido a la ventana login para iniciar sesión con las credenciales creadas anteriormente.
 
-[Vista-2.jpg](https://postimg.cc/1f6dK8DM)
+[![Vista-2.png](https://i.postimg.cc/X7D04FqM/Vista-2.png)](https://postimg.cc/1f6dK8DM)
 
 VENTANA DE CARGA
 
