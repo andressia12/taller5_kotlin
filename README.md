@@ -64,6 +64,8 @@ Figma es una herramienta para diseñar prototipos, wireframes, interfaces… Tod
 
 Firebase básicamente es una plataforma móvil diseñada y creada por Google, teniendo como principal función desarrollar y facilitar la creación de aplicaciones para dispositivos móviles que cuenten con una alta calidad a pesar de su rápida elaboración.
 
+[![firebase.png](https://i.postimg.cc/ZRZRMCw9/firebase.png)](https://postimg.cc/WDWTDbLj)
+
 # Necesidad
 Basados en el objetivo de desarrollo sostenible 9 titulado "Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación" se obtiene que en los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios, por lo que fundamentados en esto se ve el una oportunidad de mejora  
 
