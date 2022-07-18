@@ -32,31 +32,31 @@ Cada laboratorio debe tener un sistema de base de datos donde se realiza la gest
 Es por esto que se decidió desarrollar un programa  para el control de inventarios que permita gestionar entradas y salidas de los diferentes equipos y reactivos para poder gestionar los inventarios de una forma más eficiente. 
 
 # Herramientas usadas para la solución
-<h2>Python</h2>
+<h2>Kotlin</h2>
 La primer  herramienta utilizada, será el lenguaje de programación Python. Este lenguaje se eligió debido a que es uno de los lenguajes de programación más actuales y de los más sencillos de usar, debido a que este posse una sintaxis simple y de fácil aprenidzaje. Además de esto es un lenguaje muy productivo y es de código abierte, por lo que ofrece muchas ventajas para este proyecto. 
 
-![python.jpg](https://talently.tech/blog/wp-content/uploads/2020/11/cuanto-gana-un-programador-de-python-en-peru.jpg)
+![Kotlin.jpg](https://i.postimg.cc/wTsZy7js/Kotlin.jpg)](https://postimg.cc/BX4MRZDq)
 
 
-<h2> Visual Studio Code </h2> 
+<h2> Android studio </h2> 
 
 Se va a utilizar el editor de texto Visual Studio Code, esto debido a que es un editor de texto fácil de usar, el cual es multiplataforma, desarrollado por Microsoft por lo que es gratuito y de código abierto siendo esta una herramienta de programación avanzada.
 
-![visualcode.jpg](https://programacion.net/files/article/20170630010634_visual-studio-code.png)
+[![Andorid-studio.jpg](https://i.postimg.cc/rsdh6YPP/Andorid-studio.png)](https://postimg.cc/q6TcyQ0s)
 
 
 
-<h2> Balsamiq </h2> 
+<h2> Figma </h2> 
 La herramienta balsamiq nos permitirá crear el prototipo y modelado del proyecto, debido a que esta herramienta es una de las mejores 
 para crear prototipos, bocetos o wireframes es Balsamiq Mockups
 
-![balsamiq.jpg](https://llops.com/blog/content/articulos/oct08/set_componentes.jpg)
+[![figma.jpg](https://i.postimg.cc/x17p5Qpb/figma.webp)](https://postimg.cc/NK6xG3cg)
 
 
-<h2> MySQL y MySQL Workbench  </h2> 
+<h2> Firebase  </h2> 
 MySQL es un sistema open source de administración de bases de datos que es desarrollado y soportado por Oracle, por lo cual además se utilizó el programa MySQL Workbench debido a que es una herramienta visual de diseño de bases de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, creación y mantenimiento para el sistema de base de datos MySQL.
 
-![Mysql.jpg](https://solocodigoweb.com/wp-content/uploads/2014/03/cronologia-historia-de-mysql-cloud-computing-solocodigoweb.jpg)
+[![firebase.png](https://i.postimg.cc/ZRZRMCw9/firebase.png)](https://postimg.cc/WDWTDbLj)
 
 
 # Necesidad
