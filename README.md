@@ -73,7 +73,11 @@ El incorrecto manejo del inventario perjudica las prácticas de los laboratorios
 
 # Interfaz gráfica
 
-A continuación se muestran los mockups de la aplicación explicados uno a uno y según el hilo que debe llevar el usurio.
+A continuación se muestran los mockups de la aplicación explicados uno a uno y según el hilo que debe llevar el usurio por la apliación.
+LOGIN 
+Si el usuario ya está registrado puede ingresar con su usuario y contraseña como credenciales propuestas por este mismo, de lo contrario deberá acceder a la opción registrate ahora.
+REGISTRARSE
+La aplicación solicitará correo de ingreso y contraseña proporcionadas por el usuario, además de la confirmación de la misma. Una vez confirmada la contraseña podrá finalizar su proceso de registro; posteriormente será redirigido a la ventana login para iniciar sesión con las credenciales creadas.
 
 ![inisiosesion.png](https://github.com/Stepha-gon/ProyectoFinalBD/blob/main/imagenes%20para%20el%20proyecto/iniciosesion.png)
 
